@@ -1,0 +1,31 @@
+.cl {
+    width: 10%;
+    height: 10%;
+    margin-bottom: 20px;
+}
+
+nav a {
+    color: black;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-decoration: none;
+    border: 3px solid DarkOrange;
+    width: 20%;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 40px;
+}
+.Clas {
+    background-color: rgb(236, 194, 177);
+}
+.Name{
+    
+    color: white;
+    background-color: DarkOrange;
+    font-size: 40px;
+    text-decoration: none;
+    border: 1px solid DarkOrange;
+    border-radius: 30px;
+    padding: 15px;
+    margin: 40px;
+}
