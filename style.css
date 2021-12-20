@@ -1,6 +1,6 @@
 .cl {
     width: 10%;
-    height: 30%;
+    height: 10%;
     margin-bottom: 20px;
 }
 
@@ -28,4 +28,20 @@ nav a {
     border-radius: 30px;
     padding: 15px;
     margin: 40px;
+}
+h1{
+    color:#0e61a2;
+}
+.button{
+    color: black;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-decoration: none;
+    border: 3px solid #0e61a2;
+    width: 20%;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 40px;
+    line-height: 60px;
+    vertical-align:middle;
 }
