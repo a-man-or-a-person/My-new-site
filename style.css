@@ -1,8 +1,10 @@
 .cl {
     width: 10%;
-    height: 30%;
+    height: 10%;
     margin-bottom: 20px;
+
 }
+
 
 nav a {
     color: black;
@@ -14,6 +16,7 @@ nav a {
     border-radius: 20px;
     padding: 10px;
     margin: 40px;
+
 }
 .Clas {
     background-color: rgba(0, 119, 255, 0.514);
@@ -28,9 +31,11 @@ nav a {
     border-radius: 30px;
     padding: 15px;
     margin: 40px;
+    text-shadow: 2px 2px 2px #000; 
 }
 h1{
     color:#0e61a2;
+    text-shadow: 2px 2px 3px #000; 
 }
 .button{
     color: black;
@@ -41,7 +46,43 @@ h1{
     width: 20%;
     border-radius: 20px;
     padding: 10px;
-    margin: 40px;
+    margin: 60px;
     line-height: 60px;
+    vertical-align:middle;
 
 }
+.button1{
+    color: black;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-decoration: none;
+    border: 3px solid #0e61a2;
+    width: 20%;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 60px;
+    line-height: 60px;
+    vertical-align:middle;
+
+}
+.button2{
+    color: black;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-decoration: none;
+    border: 3px solid #0e61a2;
+    width: 20%;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 40px;
+    line-height: 60px;
+    vertical-align:middle;
+
+}
+
+div {
+    height: 200px; /* Высота блока */
+    border: 2px solid #000; /* Параметры рамки */
+    background: url(https://st2.depositphotos.com/3308451/6038/i/600/depositphotos_60388737-stock-photo-christmas-new-year-decoration-background.jpg) 100% 100% no-repeat; /* Добавляем фон */
+    background-size: cover; /* Масштабируем фон */
+   }
